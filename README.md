@@ -1,4 +1,4 @@
-## Practical-5
+## Registration Screen
 
 ##  Aim
 To create an Android application that includes Login and Registration screens using Jetpack Compose.
